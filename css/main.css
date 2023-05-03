@@ -168,6 +168,10 @@ font-size: 18px;
     {
         font-size: 60px;
     }
+    .special-heading + h2
+    {
+        font-weight: 600;
+    }
     .special-heading + p
     {
         margin-top: -20px;
