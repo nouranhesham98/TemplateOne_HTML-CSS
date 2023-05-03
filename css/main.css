@@ -171,6 +171,7 @@ font-size: 18px;
     .special-heading + h2
     {
         font-weight: 600;
+        font-size: 90px;
     }
     .special-heading + p
     {
